@@ -12,3 +12,4 @@ Sprendimas susideda iš dviejų "Jupyter Notebook" projektų:
 
 1. [preprocessing.ipynb](./preprocessing.ipynb) - duomenų paruošimas tinklų analizei.
 2. [analysis.ipynb](./analysis.ipynb) - tinklų analizė.
+
